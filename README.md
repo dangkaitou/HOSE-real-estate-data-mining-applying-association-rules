@@ -1,1 +1,1 @@
-"# HOSE-real-estate-data-mining-applying-association-rules" 
+# HOSE-real-estate-data-mining-applying-association-rules
